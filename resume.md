@@ -5,6 +5,11 @@
 
 ## Education
 
+**B.A. - Marketing & Accounting** <br>
+2021-2025 // Eastern Washington University
+
+**Certificate - Front-end Web Design**
+2021-2025 // Eastern Washington University
 
 ## My Skills
 
@@ -13,7 +18,7 @@
 ## Work Experience
 
 **Social Media Intern** <br>
-***Karly Kay Designs*** // *Spokane, WA* // *March 2025 - Present* <br>
+***Karly Kay Designs*** // *March 2025 - Present* <br>
 * Assist in social media marketing by creating content strategies, designing graphics, and researching trends. 
 * Developed cohesive brand identities and contributed to branding and design projects.
 * Supported event planning by coordinating logistics, scheduling venue tours, and attending client meetings.
@@ -23,7 +28,7 @@
 
 
 **Assistant of Marketing & Fan Engagement**
-***Eastern Washington University*** // *Cheney, WA* // *September 2024 - Present* <br>
+***Eastern Washington University*** // *September 2024 - Present* <br>
 
 * Work games for football, volleyball, and basketball, oversee timeout, media breaks, and half time entertainment. 
 * Set up promotional materials, signage, sponsor displays, and fan engagement zones around venues. 
@@ -34,7 +39,7 @@
 
 
 **Lead Varisty Sports Equipment Assistant**
-***Eastern Washington University*** // *Cheney, WA* // *April 2025 - Present* <br>
+***Eastern Washington University*** // *April 2025 - Present* <br>
 
 * Supervised and trained a team of equipment assistants, ensuring efficient operations and adhering to safety protocols. while managing student responsibilities.
 * Curated and managed engaging content for the Equipment Instagram & Twitter pages, featuring uniform and equipment showcases, staff introductions, and interactive video challenges to foster connection and engagement.
