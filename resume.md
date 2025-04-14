@@ -12,7 +12,13 @@
 2021-2025 // Eastern Washington University
 
 ## My Skills
-
+* Front-End Development
+* User Experience Design
+* Responsive Design
+* Graphic Design
+* Concept Creation
+* Project Management
+* Creative Problem Solving
 
 
 ## Work Experience
