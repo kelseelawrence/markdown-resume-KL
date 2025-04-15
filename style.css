@@ -1,13 +1,48 @@
-/* Your Styles */
-
-@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap');
-
+@import url("https://use.typekit.net/ybg5pxg.css");
+ 
 
 /* Print Styling */
 @media print {
 
-    
+  body {
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, sans-serif;
+  color: #000000;
+  max-width: 800px;
+  margin: 40px auto;
+  padding: 0 20px;
+}
+  
+  h1 {
+  font-size: 2.5rem;
+  font-weight: 800;
+  border-bottom: 3px solid #ffb6c1;
+}
+
+h2 {
+  font-size: 1.8rem;
+  border-bottom: 2px solid #ffb6c1;
+  padding-bottom: 0.3rem;
+}
+
+
+
+  ul {
+  padding-left: 1.5rem;
+  margin-bottom: 1.5rem;
+}
+  
+  
+li {
+  margin-bottom: 0.5rem;
+}
+
+
+
+
 
     
 
 }
+    
+
+    
