@@ -6,10 +6,11 @@
 
   body {
   font-family: "Gill Sans", "Gill Sans MT", Calibri, sans-serif;
-  font-size: 1.2rem;
+  font-size: 0.75rem;
   color: #000000;
   max-width: 800px;
-  margin: 40px auto;
+  margin: auto;
+  padding: 0 20px;
 }
   
   h1 {
